@@ -1,3 +1,11 @@
+/*
+There are 4 way to decelar variable.
+1. cosnt
+2 let
+3 var
+4 without any type. exmple in line no 12;
+*/
+
 const accountId = 1443; 
 let accountEmail = "gvsn138@gmail.com";
 var accountPassword = "1234";
