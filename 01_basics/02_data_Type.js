@@ -3,7 +3,7 @@
 //alert("hello") // we can not use alert in node js.
 
 let name = "Gaurav"
-let age = 23
+age = 23
 let male = true;
 let city;
 
