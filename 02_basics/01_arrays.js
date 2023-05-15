@@ -21,3 +21,13 @@ console.log(myArr3);
 
 let myArr4 = myArr.slice(1,5) // it will copy element from index 1 to 4 and exclude 5th index.
 let myArr5 = myArr.splice(1,5) // it will take element from index 1 to 5 and change the original array.
+
+
+
+//*****************array part 2 video 15th ***************************
+
+// more about 
+
+// Array.isArray()
+// Array.from()
+// Array.of()
